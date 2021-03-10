@@ -16,6 +16,8 @@ What you can expect in Milvus V1.0 includes
 
 <br/>
 
+<br/>
+
 Although the Milvus project is a continuously evolving OSS project, we believe the first major release is very important to our community users from the following aspects.
 
 - Milvus V1.0 is a long-term support version.
