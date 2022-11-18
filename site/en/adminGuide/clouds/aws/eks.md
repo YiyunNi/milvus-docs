@@ -32,7 +32,7 @@ This topic describes how to deploy a Milvus cluster on [Amazon EKS](https://docs
 apiVersion: eksctl.io/v1alpha5
 kind: ClusterConfig
 metadata:
-  name: luo-test-cluster-4
+  name: my-eks-cluster
   region: us-west-2
   version: "1.23"
 
